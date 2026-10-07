@@ -45,7 +45,7 @@ function Footer() {
               <h4>Connect</h4>
 
               <a
-                href="https://github.com/"
+                href="https://github.com/7430souvik"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -54,7 +54,7 @@ function Footer() {
               </a>
 
               <a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/in/souvik-chatterjee-b4779b183/?isSelfProfile=true"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -62,7 +62,7 @@ function Footer() {
                 <ArrowUpRight size={14} />
               </a>
 
-              <a href="mailto:your@email.com">
+              <a href="mailto:souvikchatterjee080@gmail.com">
                 Email
                 <ArrowUpRight size={14} />
               </a>
